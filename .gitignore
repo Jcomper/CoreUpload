@@ -1,0 +1,7 @@
+/.vscode/launch.json
+/.vscode/tasks.json
+/bin/Debug/netcoreapp3.0
+/bin/Release/netcoreapp3.0
+/obj/Debug/netcoreapp3.0
+/obj/Release/netcoreapp3.0
+/obj
